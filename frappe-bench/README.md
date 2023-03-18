@@ -29,5 +29,12 @@
 `This command will ask the DB and admin password`
 
 ```
-▶ bench new-site edu.sagasoft.io
+▶ bench new-site edu.site.domain
+```
+
+## Start bench
+
+
+```
+▶ bench start
 ```
