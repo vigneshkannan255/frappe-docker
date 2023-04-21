@@ -34,7 +34,7 @@ Full-stack web application framework that uses Python and MariaDB on the server 
 `clone`
 
 ```
-▶ git clone https://github.com/vigneshkannan255/frappe.git
+▶ git clone https://github.com/vigneshkannan255/frappe-docker.git
 ▶ cd frappe-docker
 ```
 `Note: Before running below command please change the IP address and database credentials in docker-compose.yaml`
